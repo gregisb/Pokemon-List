@@ -1,0 +1,14 @@
+{
+  "name": "get-pokemon-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "nodemon assets/js/index.js"
+  },
+
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
